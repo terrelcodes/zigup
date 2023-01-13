@@ -69,3 +69,10 @@ run a specific version of the compiler
 ```shell
 zigup run <version> <args>...
 ```
+
+display the path to the given command
+
+```shell
+zigup which <command>
+```
+
